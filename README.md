@@ -4,7 +4,7 @@ Bu proje, histopatolojik meme kanseri görüntülerinden derin öğrenme (CNN) m
 
 ![Uygulama Arayüzü](https://i.imgur.com/qCfyOhx.png)
 
-### 🚀 [Uygulamanın Canlı Demosunu Ziyaret Et!](https://kanser-teshisi-streamlit-app-....streamlit.app/)
+### 🚀 [Uygulamanın Canlı Demosunu Ziyaret Et!](https://kanser-teshisi-app-lfavgotm3ckak96zemsavb.streamlit.app/)
 
 ---
 
