@@ -4,7 +4,7 @@ Bu proje, histopatolojik meme kanseri görüntülerinden derin öğrenme (CNN) m
 
 ![Uygulama Arayüzü](https://i.imgur.com/qCfyOhx.png)
 
-### 🚀 [Uygulamanın Canlı Demosunu Ziyaret Et!](#)
+### 🚀 [Uygulamanın Canlı Demosunu Ziyaret Et!](https://kanser-teshisi-streamlit-app-....streamlit.app/)
 
 ---
 
@@ -54,7 +54,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 1.  **Repoyu klonlayın:**
 
     ```bash
-    git clone [https://github.com/anilbeter/kanser-teshisi-streamlit.git
+    git clone https://github.com/anilbeter/kanser-teshisi-streamlit.git
     cd kanser-teshisi-streamlit
     ```
 
